@@ -43,3 +43,7 @@ All individuals have the right to equal participation, submission and protection
 ## Article V - Fraternity
 
 All individuals have the right to commune with voluntary peers.
+
+## Article VI - Self Determination
+
+All individuals have the right to determine their own fate, choices and manage their own lifes.
